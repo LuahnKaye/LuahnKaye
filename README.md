@@ -72,16 +72,6 @@ dev = {
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=LuahnKaye&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=8"/>
-
-</div>
-
----
-
 ## 🎓 Formação & Conquistas
 
 - 🎓 **Engenharia de Software** — IBMEC *(previsão: Jun/2027)*
