@@ -5,7 +5,7 @@
 
 <!-- Typing SVG animado -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%7C+FastAPI+%7C+Node.js+%7C+React;Automa%C3%A7%C3%B5es+com+n8n+%2B+IA+Generativa;5.000%2B+leads%2Fdia+processados+em+produ%C3%A7%C3%A3o;Medalha+de+Ouro+%7C+OBAFOG+2025" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+%7C+FastAPI+%7C+Node.js+%7C+React;5.000%2B+leads%2Fdia+processados+em+produ%C3%A7%C3%A3o;Medalha+de+Ouro+%7C+OBAFOG+2025" alt="Typing SVG" />
 </a>
 
 <!-- Badges de contato -->
@@ -19,7 +19,6 @@
 <a href="https://github.com/LuahnKaye">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=LuahnKaye&style=for-the-badge&color=1f6feb&label=Visitas+ao+Perfil"/>
 
 </div>
 
