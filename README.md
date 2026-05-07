@@ -34,16 +34,8 @@ dev = {
     "formação":   "Engenharia de Software — IBMEC (2027)",
     "foco":       ["Backend", "Automações", "IA Aplicada", "Integrações"],
     "atualmente": "Aberto a oportunidades Júnior / Estágio",
-    "conquista":  "🥇 Medalha de Ouro — OBAFOG 2025",
 }
 ```
-
-- 🚀 Desenvolvi um sistema de triagem de currículos com **GPT-4 + Lógica Fuzzy**, analisando **100+ currículos em menos de 1 minuto** com custo de apenas **R$ 1,50/1.000 análises**
-- 🤖 Construí chatbots inteligentes 24/7 para empresas reais, com **30–150 atendimentos/dia** eliminando atendentes humanos
-- ⚡ Automatizei discagem de leads para a **TIM**, atingindo **~5.000 leads/dia**
-- 💰 Gerou **economia de R$ 3.000+/mês** com automação de processos em ERP corporativo
-
----
 
 ## 🛠️ Stack Técnica
 
@@ -80,23 +72,6 @@ dev = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuahnKaye&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=8b949e"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuahnKaye&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=LuahnKaye&theme=tokyonight&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## 🏆 Conquistas
 
 <div align="center">
@@ -107,25 +82,11 @@ dev = {
 
 ---
 
-## 💼 Experiência em Produção
-
-| Projeto | Impacto | Stack |
-|---|---|---|
-| 🤖 Sistema de Triagem IA (HTS) | 100+ currículos/min · R$1,50/1.000 análises | Python, GPT-4, Flask, Firebase |
-| 📞 Automação de Leads (TIM) | ~5.000 leads/dia contactados | n8n, Python |
-| 💬 Chatbot 24/7 (Além do Olhar & OhÁguas) | 30–150 atendimentos/dia | n8n, IA, Google Calendar API |
-| ⚙️ Automação ERP (Multiplic) | Economia de R$3.000+/mês | Python, n8n |
-
----
-
 ## 🎓 Formação & Conquistas
 
 - 🎓 **Engenharia de Software** — IBMEC *(previsão: Jun/2027)*
 - 📜 **Tecnólogo em ADS** — IBMEC *(Jan/2023 – Jun/2025)*
 - 🥇 **Medalha de Ouro — OBAFOG** *(Olimpíada Brasileira de Foguetes, 2025)*
-- ☁️ **Microsoft Azure Fundamentals** *(2025)*
-- 🧠 **Engenharia de Prompt** — NoCodeAi *(2024)*
-
 ---
 
 <div align="center">
