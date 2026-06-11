@@ -30,9 +30,9 @@
 dev = {
     "nome":       "Luahn Kaye",
     "localização": "Nova Iguaçu, Rio de Janeiro 🇧🇷",
-    "formação":   "Engenharia de Software — IBMEC (2027)",
+    "formação":   "Formado em Analise e desenvolvimento de Sistemas e Cursando Engenharia de Software — IBMEC (2027)",
     "foco":       ["Backend", "Automações", "IA Aplicada", "Integrações"],
-    "atualmente": "Aberto a oportunidades Júnior / Estágio",
+    "atualmente": "Aberto a oportunidades Júnior / Pleno",
 }
 ```
 
